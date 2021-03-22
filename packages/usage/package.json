@@ -1,10 +1,10 @@
 {
   "name": "@brada/usage",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "src/index.js",
   "dependencies": {
     "@brada/aa-pkg": "^1.0.1",
-    "@brada/bb-pkg": "^1.0.4"
+    "@brada/bb-pkg": "^1.0.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
