@@ -1,0 +1,15 @@
+{
+  "name": "@brada/usage",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "@brada/aa-pkg": "1.0.0",
+    "@brada/bb-pkg": "1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
