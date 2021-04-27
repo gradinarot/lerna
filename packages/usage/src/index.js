@@ -3,3 +3,4 @@ const bb = require("@brada/bb-pkg");
 
 console.log(aa + " " + bb);
 console.log(aa + " " + bb);
+console.log("changed");
