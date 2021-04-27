@@ -7,10 +7,10 @@
     "@brada/bb-pkg": "^1.0.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"testing usage\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "gitHead": "324afc97772a94cf151f0a22ffd346fbfc7a8e9f"
+  "gitHead": "fb9f73852efc7e739cfc06aab330a3ad137cb039"
 }
