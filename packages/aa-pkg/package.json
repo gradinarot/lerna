@@ -1,6 +1,6 @@
 {
   "name": "@brada/aa-pkg",
-  "version": "1.0.1",
+  "version": "1.0.12",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"testing aa-pkg\""

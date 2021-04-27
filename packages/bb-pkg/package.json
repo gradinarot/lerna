@@ -1,6 +1,6 @@
 {
   "name": "@brada/bb-pkg",
-  "version": "1.0.5",
+  "version": "1.0.12",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"testing bb-pkg\""

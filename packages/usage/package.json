@@ -1,10 +1,10 @@
 {
   "name": "@brada/usage",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "main": "src/index.js",
   "dependencies": {
-    "@brada/aa-pkg": "^1.0.1",
-    "@brada/bb-pkg": "^1.0.5"
+    "@brada/aa-pkg": "^1.0.12",
+    "@brada/bb-pkg": "^1.0.12"
   },
   "scripts": {
     "test": "echo \"testing usage\""
