@@ -1,9 +1,9 @@
 {
   "name": "@brada/usage",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "main": "src/index.js",
   "dependencies": {
-    "@brada/aa-pkg": "^1.3.0",
+    "@brada/aa-pkg": "^1.4.0",
     "@brada/bb-pkg": "^1.1.0"
   },
   "scripts": {
