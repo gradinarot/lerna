@@ -1,0 +1,16 @@
+{
+  "name": "@brada/usage",
+  "version": "1.0.13",
+  "main": "src/index.js",
+  "dependencies": {
+    "@brada/aa-pkg": "^1.0.13",
+    "@brada/bb-pkg": "^1.0.13"
+  },
+  "scripts": {
+    "test": "echo \"testing usage\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "23bf9cfefa01abb861ca13232db2f976a62d2e73"
+}

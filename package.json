@@ -1,0 +1,15 @@
+{
+  "name": "root",
+  "version": "1.0.0",
+  "private": false,
+  "devDependencies": {
+    "@commitlint/config-conventional": "^12.1.1",
+    "@commitlint/config-lerna-scopes": "^12.1.1",
+    "commitlint": "^12.1.1",
+    "husky": "^6.0.0",
+    "lerna": "^4.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}

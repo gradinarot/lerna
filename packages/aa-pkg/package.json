@@ -1,0 +1,12 @@
+{
+  "name": "@brada/aa-pkg",
+  "version": "1.0.13",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"testing aa-pkg\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "gitHead": "23bf9cfefa01abb861ca13232db2f976a62d2e73"
+}
