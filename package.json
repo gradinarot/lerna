@@ -11,6 +11,7 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "release": "lerna version --conventional-commits"
+    "release": "lerna version --conventional-commits",
+    "bootstrap": "lerna bootstrap --hoist"
   }
 }
