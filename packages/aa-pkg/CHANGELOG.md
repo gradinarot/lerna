@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/gradinarot/lerna/compare/v1.4.0...v1.5.0) (2021-04-28)
+
+
+### Bug Fixes
+
+* fix 222 feature ([9f4ab6c](https://github.com/gradinarot/lerna/commit/9f4ab6c86b815416708dc58bb7995d561ea1fd03))
+
+
+### Features
+
+* add some feat ([4580f2f](https://github.com/gradinarot/lerna/commit/4580f2f9f148ffa3ed8fb0fefc0a37906f263a8c))
+
+
+
+
+
 # [1.4.0](https://github.com/gradinarot/lerna/compare/v1.3.0...v1.4.0) (2021-04-28)
 
 
